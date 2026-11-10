@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { font-family: 'Inter', system-ui, sans-serif; }
+body { background: #f9fafb; }
+.tabular-nums { font-variant-numeric: tabular-nums; }
